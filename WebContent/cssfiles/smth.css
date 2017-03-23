@@ -1,0 +1,98 @@
+@CHARSET "ISO-8859-1";
+
+.categoryclass 
+{
+	border: 1px solid black;
+	padding: 5px 0px 0px 5px;
+	background: #D3D3D3;
+	height: 25px;
+	width: 95%;
+	text-align: left;
+}
+
+.boardclass 
+{
+	border: 1px solid black;
+	padding: 20px 0px 20px 10px;
+	background: #F5F5F5;
+	width: 95%;
+	text-align: left;
+}
+
+.addnewmoderatorclass 
+{
+	float: right;
+	padding-right: 15px;
+}
+
+.movetoanothercategory 
+{
+	float: right;
+}
+
+.deletebutton 
+{
+	float: right;
+	padding-right: 15px;
+}
+
+.sticky 
+{
+	float: right;
+	padding-right: 40px;
+}
+
+.sticky1 
+{
+	float: right;
+	padding-right: 150px;
+}
+
+.modifytitle 
+{
+	float: right;
+	padding-right: 40px;
+}
+
+.closethread 
+{
+	float: right;
+	padding-right: 40px;
+}
+
+.deletemessage 
+{
+	float: right;
+	padding-right: 6px;
+}
+
+.date 
+{
+	float: right;
+	padding-right: 4px;
+}
+
+.deleteboard 
+{
+	float: right;
+	padding-right: 15px;
+}
+
+.editmessage 
+{
+	float: right;
+	padding-right: 6px;
+}
+
+.deletecategory 
+{
+	float: right;
+	padding-right: 15px;
+}
+
+.button 
+{
+    background: #4479BA;
+    color: #FFF;
+    border-radius:10%;
+}
